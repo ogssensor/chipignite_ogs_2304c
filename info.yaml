@@ -7,7 +7,7 @@ project:
   organization_url: "None"
   owner: "OGS Sensor Team"
   process: "SKY130"
-  project_name: "YiFive"
+  project_name: "OGS_SENSOR"
   project_id: "00002034"
   tags:
     - "CHIPIGNITE"
