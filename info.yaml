@@ -1,17 +1,17 @@
 ---
 project:
-  description: "A Custom SoC for Google sponsored Open MPW shuttles for SKY130."
+  description: "Air Polution Monitoring Sensor Delta-Sigma ADC in Sky130 with ChipIgnite"
   foundry: "SkyWater"
-  git_url: "https://github.com/dineshannayya/yifive_r0.git"
+  git_url: "https://github.com/ogssensor/chipignite_ogs_2304c"
   organization: "None"
   organization_url: "None"
-  owner: "Dinesh Annayya"
+  owner: "OGS Sensor Team"
   process: "SKY130"
   project_name: "YiFive"
-  project_id: "00000000"
+  project_id: "00002034"
   tags:
-    - "Open MPW"
-    - "MPW-TWO"
+    - "CHIPIGNITE"
+    - "2304C"
   category: "Processor"
   top_level_netlist: "caravel/verilog/gl/caravel.v"
   user_level_netlist: "verilog/gl/user_project_wrapper.v"
